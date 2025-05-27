@@ -1,3 +1,5 @@
+![logo](dots.PNG)
+
 - 👋 Hi, I’m @Calstar9000
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning Java
