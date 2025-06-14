@@ -1,10 +1,9 @@
 ![pfp](download.png)
 
 - 👋 Hi, I’m @Calstar9000
-- 👀 I’m interested in learning coding
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on not much
-- 📫 How to reach me if you know me dm me
+- 👀 I’m interested in learning: coding tricks and overarching skills
+- 🌱 I’m currently learning: Java
+- 📫 How to reach me: DM me i might respond
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: D&D player
 
