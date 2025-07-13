@@ -1,6 +1,7 @@
 ![pfp](download.png)
 
 - 👋 Hi, I’m @Calstar9000
+- 📂 Languages: Python
 - 👀 I’m interested in learning: coding tricks and overarching skills
 - 🌱 I’m currently learning: Java
 - 📫 How to reach me: DM me i might respond
